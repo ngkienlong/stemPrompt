@@ -75,7 +75,7 @@ def get_example():
         example = exTinkering
     elif need == 'Tìm ý tưởng hoạt động':
         example = exActivity
-    elif need == 'Unplugged coding':
+    elif need == 'Tìm ý tưởng bài học Unplugged coding':
         example = exUnplugged
     else:
         pass
